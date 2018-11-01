@@ -10,3 +10,5 @@ There are several choices for file storage
 - Local file system
 
 To change the system that you want to use from the default GridFS select the option from the "Storage Type" section.
+
+
